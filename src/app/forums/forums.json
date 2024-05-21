@@ -1,0 +1,39 @@
+{
+    "forums": [
+        {
+            "id": 0,
+            "name": "joe",
+            "title": "This is the first post",
+            "date": "05/13/2024",
+            "replies": ["you suck", "terrible post"]
+        },
+        {
+            "id": 1,
+            "name": "OntarioResidencyHouseSitter",
+            "title": "The first post was so bad I have to post this one. I hope you enjoy this post even though it brings nothing of value to this site. You're welcome. Did I mention that this is very valuable? Maybe not, but it's okay.",
+            "date": "05/18/2024",
+            "replies": ["great post", "awesome", "you're a real hero", "amazing post", "this is the greatest post"]
+        },
+        {
+            "id": 2,
+            "name": "testingThisWebsite",
+            "title": "great stuff here",
+            "date": "05/19/2024",
+            "replies": []
+        },
+        {
+            "id": 3,
+            "name": "random",
+            "title": "Does anyone use this website?",
+            "date": "05/21/2024",
+            "replies": ["yes", "no", "maybe"]
+        },
+        {
+            "id": 4,
+            "name": "this",
+            "title": "This is the last post",
+            "date": "05/21/2024",
+            "replies": ["why"]
+        }
+    ]
+}
