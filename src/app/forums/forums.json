@@ -4,36 +4,69 @@
             "id": 0,
             "name": "joe",
             "title": "This is the first post",
+            "body": "Hello! This is the first post that I'll be making.",
             "date": "05/13/2024",
-            "replies": ["you suck", "terrible post"]
+            "replies": [
+                {"id": 0, "name": "commenter1", "body": "So proud of you.", "date": "5/15/2024"},
+                {"id": 1, "name": "commenter2", "body": "You so proud of.", "date": "5/17/2024"},
+                {"id": 2, "name": "commenter3", "body": "Of proud so you.", "date": "5/15/2024"},
+                {"id": 3, "name": "commenter4", "body": "So you proud of.", "date": "5/17/2024"},
+                {"id": 4, "name": "commenter5", "body": "Of so proud you.", "date": "5/17/2024"},
+                {"id": 5, "name": "commenter6", "body": "You proud of so", "date": "5/17/2024"},
+                {"id": 6, "name": "commenter7", "body": "So proud you of.", "date": "5/24/2024"},
+                {"id": 7, "name": "commenter8", "body": "Of proud you so", "date": "5/26/2024"}
+            ]
         },
         {
             "id": 1,
             "name": "OntarioResidencyHouseSitter",
-            "title": "The first post was so bad I have to post this one. I hope you enjoy this post even though it brings nothing of value to this site. You're welcome. Did I mention that this is very valuable? Maybe not, but it's okay.",
+            "title": "This is the second post.",
+            "body": "This reply is a different color because it is supposed to show the user that this is the original body text and not part of the actual replies.",
             "date": "05/18/2024",
-            "replies": ["great post", "awesome", "you're a real hero", "amazing post", "this is the greatest post"]
+            "replies": [
+                {"id": 0, "name": "commenter1", "body": "Good work!", "date": "5/20/2024"},
+                {"id": 1, "name": "commenter2", "body": "Amazing post! It is very detailed.", "date": "5/21/2024"}
+            ]
         },
         {
             "id": 2,
             "name": "testingThisWebsite",
             "title": "great stuff here",
+            "body": "this website is full of great stuff",
             "date": "05/19/2024",
             "replies": []
         },
         {
             "id": 3,
             "name": "random",
-            "title": "Does anyone use this website?",
+            "title": "Just another post.",
+            "body": "Like the title says, it's just another post.",
             "date": "05/21/2024",
-            "replies": ["yes", "no", "maybe"]
+            "replies": [
+                {"id": 0, "name": "commenter1", "body": "Very true.", "date": "5/21/2024"},
+                {"id": 1, "name": "commenter2", "body": "Could be.", "date": "5/23/2024"},
+                {"id": 2, "name": "commenter3", "body": "Don't believe it.", "date": "5/25/2024"}
+            ]
         },
         {
             "id": 4,
             "name": "this",
             "title": "This is the last post",
-            "date": "05/21/2024",
-            "replies": ["why"]
+            "body": "Please don't post after this",
+            "date": "05/24/2024",
+            "replies": [
+                {"id": 0, "name": "commenter1", "body": "I am going to post after this.", "date": "5/26/2024"}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "commenter1",
+            "title": "...",
+            "body": "This is another post added to the website.",
+            "date": "5/26/2024",
+            "replies": [
+                {"id": 0, "name": "commenter1", "body": "This is a self-reply.", "date": "5/26/2024"}
+            ]
         }
     ]
 }
